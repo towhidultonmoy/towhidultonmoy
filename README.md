@@ -19,7 +19,6 @@
 <a href="https://twitter.com/towhidul_tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="towhidul_tonmoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/towhidultonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="towhidultonmoy" height="30" width="40" /></a>
 <a href="https://kaggle.com/towhidultonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="towhidultonmoy" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/UCP640Cq_drvhhZCwsdVt3zQ](https://www.youtube.com/channel/UCP640Cq_drvhhZCwsdVt3zQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="towhidul tonmoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
